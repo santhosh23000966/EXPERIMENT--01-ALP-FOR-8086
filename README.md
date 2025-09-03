@@ -146,6 +146,8 @@ ret
 
 ## Result :
  
+Thus, to write and execute ALP on fundamental arithmetic operations and Logical operations is successful.
+
 
 
 
